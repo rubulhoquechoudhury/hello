@@ -10,5 +10,5 @@ export default function Home() {
       <Link to="/">HOME</Link>
     </div>
   }
-export default HelloPage
+
   export const Head = () => <title>HELLO</title>
